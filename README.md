@@ -2,9 +2,7 @@
 <p align="center">
   <img src=https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png height="200"/>
 </p>
-<br>
-
-<p align="left"> 
+<p align="right"> 
 <img src="https://komarev.com/ghpvc/?username=saJJiK&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
@@ -61,13 +59,7 @@
   <code> <img height="50" src="  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> </code>
 
   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saJJiK&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saJJiK&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saJJiK&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <hr>
 <p align="center">
   <img src=https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png height="200"/>
