@@ -16,8 +16,6 @@
 <h3 align="center">Software Engineer </h3>
 <p align="center">
 
-<a href="www.linkedin.com/in/sajjitha-walallawita-b2a6b5211" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="sajjitha" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/sajjitha walallawita/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_sajjitha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
  <a href = "mailto:sajjithakawyada@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
